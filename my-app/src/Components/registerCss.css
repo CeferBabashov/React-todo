@@ -1,0 +1,14 @@
+form {
+    width: 400px;
+}
+
+.form input{
+    padding: 10px 15px ;
+}
+
+.form button{
+    width: 100%;
+}
+.form {
+    padding: 20px;
+}

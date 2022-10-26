@@ -1,0 +1,30 @@
+body{
+    /* background-color: #6454F0; */
+    background-color: #c5def8;
+}
+.card{
+    display: flex;
+    flex-direction: row !important;
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    width: 100px;
+    cursor: pointer;
+    transition: 0.6s ease-in-out;
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+
+
+
+h3 {
+    text-shadow: 3px 3px #777777;
+    /* font-variant: small-caps */
+}
+
+.ul li{
+    list-style-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Arrow-right-small.svg/12px-Arrow-right-small.svg.png');
+}
